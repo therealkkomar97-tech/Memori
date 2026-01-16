@@ -1,7 +1,7 @@
-[![Memori Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/banner.png)](https://memorilabs.ai/)
+[! Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/banner.png)](https://memorilabs.ai/)
 
 <p align="center">
-  <strong>An open-source SQL-Native memory engine for AI
+  >An open-source SQL-Native memory engine for AI
 
 </strong>
 </p>
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://trendshift.io/repositories/15418">
-    <img src="https://trendshift.io/_next/image?url=https%3A%2F%2Ftrendshift.io%2Fapi%2Fbadge%2Frepositories%2F15418&w=640&q=75" alt="GibsonAI%2FMemori | Trendshif">
+    <img src="https://trendshifnext/image?url=https%3A%2F%2Ftrendshift.io%2Fapi%2Fbadge%2Frepositories%2F15418&w=640&q=75" alt="GibsonAI%2FMemori | Trendshif">
   </a>
 </p>
 
